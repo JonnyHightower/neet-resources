@@ -22,7 +22,7 @@ if [ ! -z $INVOKEDBYNEETUPDATE ] && [ $INVOKEDBYNEETUPDATE -eq 1 ]; then
 
 
 	[ ! -d "${NEET}/resources" ] && mkdir -p "${NEET}/resources"
-	cp content/* "${NEET}/resources/"
+	cp -R content/* "${NEET}/resources/"
 	chown -R root.root "${NEET}/resources/"
 	chmod -R go-w "${NEET}/resources/"
 

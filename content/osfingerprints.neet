@@ -78,6 +78,7 @@ SMB*OS=[Windows XP 3790 Service Pack 2] Server=[Windows XP 5.2]*windows*Windows*
 SMB*OS=[Windows XP 3790 Service Pack 1] Server=[Windows XP 5.2]*windows*Windows*4*XP x64*4*SP1*4
 SMB*OS=[Windows XP 3790] Server=[Windows XP 5.2]*windows*Windows*4*XP x64*4*SP0*4
 SMB*OS=[Windows Vista (TM) Home Premium 6000] Server=[Windows Vista (TM) Home Premium 6.0]*windows*Windows*4*Vista Home Premium*4**0
+SMB*OS=[Windows Server 2012 R2 Standard 9600] Server=[Windows Server 2012 R2 Standard 6.3]*windows*Windows*4*2012 Server R2*4*SP0*1
 SMB*OS=[Unix] Server=[Samba 3.0.23c]*unix*Linux*3*Slackware 11.0*3**0
 SMB*OS=[Unix] Server=[Samba*unix*Linux*2**0**0
 SMB*OS=[Unix] Server=[Samba*unix*FreeBSD*2**0**0
